@@ -1,3 +1,5 @@
+# Elicit AI
+
 Elicit is an AI Voice Translator. It translates English audio into five major Indic languages: Telugu, Hindi, Tamil, Malayalam, and Kannada. This project utilizes advanced speech recognition and text-to-speech technologies to deliver high-quality translations and natural-sounding audio output.
 
 ## Features
